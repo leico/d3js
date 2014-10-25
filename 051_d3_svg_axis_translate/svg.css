@@ -1,0 +1,18 @@
+circle.pumpkin{
+  fill        : yellow;
+  stroke      : orange;
+  stroke-width: 5;
+}
+
+
+g.axis path, line{
+
+  fill   : none;
+  stroke : black;
+  shape-rendering : crispEdges;
+}
+
+g.axis text{
+  font-family : sans-serif;
+  font-size   : 11px;
+}
